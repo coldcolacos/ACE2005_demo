@@ -1,5 +1,15 @@
 # ACE2005_demo
 
+## Download
+
+(1) This dataset is not free.
+
+https://catalog.ldc.upenn.edu/LDC2006T06
+
+(2) Latest stanfordcorenlp.
+
+http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip
+
 
 ## Preprocess
 
