@@ -30,6 +30,7 @@ for gz in *.gz; do gunzip $gz; done
 
 __validation__
 
+```
 ======[Statistics]======
 sent : 875
 event : 505
@@ -37,9 +38,11 @@ entity : 4050
 argument: 933
 Complete verification
 ====================
+```
 
 __test__
 
+```
 ======[Statistics]======
 sent : 713
 event : 424
@@ -47,9 +50,11 @@ entity : 4226
 argument: 892
 Complete verification
 ====================
+```
 
 __train__
 
+```
 ======[Statistics]======
 sent : 14724
 event : 4420
@@ -57,6 +62,7 @@ entity : 53045
 argument: 7811
 Complete verification
 ====================
+```
 
 
 
